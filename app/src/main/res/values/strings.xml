@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Top racing</string>
+    <string name="play_time"> You was alive: %d seconds</string>
+</resources>
